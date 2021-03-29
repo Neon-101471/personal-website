@@ -1,0 +1,86 @@
+body{
+    font-family: georgia;
+}
+section{
+    height: 500px;
+    padding-bottom: 40px;
+}
+
+.half-width{
+    width: 44%;
+    margin: 2.5%;
+    padding-bottom:30px;
+    float: left;
+}
+.half-width-left{
+    padding-top: 50px;
+}
+.half-width-right{
+    padding-top: 100px;
+    margin-left: 0px;
+}
+#name-shakib{
+    color: lightseagreen;
+    font-size: 30px;
+    font-weight: 700;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(150deg, indianred, #ebebeb);
+    padding: 8px 22px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #40454b;
+}
+div img{
+    margin-top: -125px;
+    height: 85%;
+    width: 85%;
+}
+div p{
+    font-size: 18px;
+}
+.image-second{
+    margin-left: 100px;
+}
+.latest-work-image{
+    width: 30%;
+    margin: 1.5%;
+    float: left;
+    padding: 5px 2px 5px 2px;
+
+}
+.latest-work-image img{
+    width: 80%;
+    height: 80%;
+    margin-top: 50px;
+}
+.section-container{
+    width: 50%;
+    margin: auto;
+}
+.last-section{
+    background-color: #ebebeb;
+    height: 100px;
+    width: 60%;
+    margin: auto;
+    margin-top: -180px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 35px;
+    background-color: rgb(207, 220, 236);
+}
+.last-section{
+    text-align: center;
+    padding-top: 5px;
+}
+.last-section h3{
+    padding-top: 5px;
+    font-size: 22px;
+    text-align: center;
+    color: lightsalmon;
+}
+footer p{
+    text-align: center;
+}
